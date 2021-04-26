@@ -1,5 +1,4 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Makhare01&theme=flag-india&show_icons=true" />
-
 ### Hi there I'm Makhare Makharadze:
 
 [![Makhare](https://img.shields.io/static/v1?label=Github&message=%20&color=orange&logo=github&style=flat-square&logoColor=white)](https://github.com/Makhare01)
