@@ -3,7 +3,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Makhare01&theme=flag-india&show_icons=true" />
 
 [![Makhare](https://img.shields.io/static/v1?label=Github&message=%20&color=orange&logo=github&style=flat-square&logoColor=white)](https://github.com/Makhare01)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/makhare_makharadze/)
+[![Twitter](https://img.shields.io/static/v1?label=twitter&message=%20&color=orange&logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/MakhareMakhara1)
+[![Facebook](https://img.shields.io/static/v1?label=facebook&message=%20&color=orange&logo=facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100009288722190)
 [![maxare2015@gmail.com](https://img.shields.io/static/v1?label=maxare2015@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:maxare2015@gmail.com)
   
   
