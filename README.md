@@ -10,7 +10,7 @@
   
 👨‍💻 20 Years old Developer  
 👨‍🎓 Studying Computer Science in Georgia  
-🚧 **Current Project:** [Faust](https://github.com/Makhare01/Faust)
+🚧 **Current Project:** [Curie's Lab](https://github.com/Makhare01/Curies-Lab.git)
 
 ⭐️ From [Makhare01](https://github.com/Makhare01)
 
