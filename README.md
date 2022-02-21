@@ -8,9 +8,9 @@
 [![maxare2015@gmail.com](https://img.shields.io/static/v1?label=maxare2015@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:maxare2015@gmail.com)
   
   
-👨‍💻 20 Years old Developer  
+👨‍💻 21 Years old Developer  
 👨‍🎓 Studying Computer Science in Georgia  
-🚧 **Current Project:** [Curie's Lab](https://github.com/Makhare01/Curies-Lab.git)
+🚧 **Current Project:** [West-Georgia](https://github.com/Makhare01/west-georgia.git)
 
 ⭐️ From [Makhare01](https://github.com/Makhare01)
 
